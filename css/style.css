@@ -1,0 +1,156 @@
+/* Body */
+body {
+    background-image: url(../back4.jpg);
+    color: #333333;
+    font-family: Arial, Verdana, sans-serif;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#flexbox {
+    display: flex;
+}
+
+table {
+    border-color: #000000;
+}
+
+li {
+    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-left: 0px;
+}
+
+.ui-widget {
+    font-size: 100%;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.ui-widget-content {
+    color: #cccc99;
+}
+
+/* Top */
+h1 {
+    background-color: #000000;
+    color: #ff3333;
+    font-size: 140%;
+
+    font-family: Georgia, "Times New Roman", serif;
+    padding: 20px;
+}
+
+/* Left */
+nav {
+    float: left;
+    background-color: #000000;
+    color: #ffcc66;
+    font-family: Arial, Verdana, sans-serif;
+    padding-bottom: 6px;
+}
+
+.navBar {
+    margin-top: 5px;
+    list-style-type: none;
+    background-color: #000000;
+    color: #ff3333;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.navBar a {
+    display: block;
+    text-decoration: none;
+    font-size: 1.2em;
+    color: #ff3333;
+    font-family: Georgia, "Times New Roman", serif;
+    text-align: center;
+    border: 5px inset #ff3333;
+    padding: 3px 15px;
+}
+
+.navBar a:link {
+    color: #ff3333;
+    background-color: #000000;
+}
+
+.navBar a:hover {
+    color: #cccc99;
+    background-color: #666666;
+}
+
+.navBar li {
+    padding: 5px 5px 5px 0px;
+}
+
+/** Center */
+main {
+    width: 100%;
+    padding: 1px 10px 31px 10px;
+    background-color: #333333;
+    color: #cccc99;
+}
+
+h3 {
+    padding-bottom: 2px;
+    border-bottom: 1px solid #cccc99;
+    margin-bottom: 10px;
+    color: #cccc99;
+    background-color: #000000;
+    text-transform: uppercase;
+}
+
+.floatleft {
+    float: left;
+    padding: 5px;
+    border: 0;
+}
+
+.intlink {
+    background-color: #000000;
+    color: #cccc99;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+
+main a, table a {
+    color: inherit;
+}
+
+/** Right */
+#right {
+    float: right;
+    width: 30%;
+    background-color: #333333;
+    color: #cccc99;
+    padding-bottom: 35px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.rightimages {
+    margin-left: 20px;
+}
+
+.newsitem {
+    font-size: .9em;
+    margin: 15px;
+}
+
+#right li {
+    list-style-type: none;
+}
+
+/** Bottom */
+footer, #footer {
+    font-size: .70em;
+    text-align: center;
+    color: #cccc99;
+    background-color: #666666;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    clear: both;
+    border-bottom: 3px solid #000000;
+    border-top: 3px solid #000000;
+}
