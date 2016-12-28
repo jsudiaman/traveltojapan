@@ -20,7 +20,7 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=<?php echo GOOGLE_API ?>&libraries=places"></script>
 
     <!-- Page Specific -->
-    <script src="attraction.js" type="text/javascript"></script>
+    <script src="js/attraction.js" type="text/javascript"></script>
 </head>
 
 <body>
@@ -121,17 +121,17 @@
                     echo '<div class="rating">';
                     $rating = round($row['rating']);
                     for ($i = 0; $i < $rating; $i++) {
-                        echo '<img src="star-orange.png" alt="Orange Star">';
+                        echo '<img src="images/star-orange.png" alt="Orange Star">';
                     }
                     for ($i = 0; $i < 5 - $rating; $i++) {
-                        echo '<img src="star-white.png" alt="White Star">';
+                        echo '<img src="images/star-white.png" alt="White Star">';
                     }
                     echo " {$row['numRating']} Ratings";
                     echo '</div>';
                 } else {
                     echo '<div class="rating">';
                     for ($i = 0; $i < 5; $i++) {
-                        echo '<img src="star-white.png" alt="White Star">';
+                        echo '<img src="images/star-white.png" alt="White Star">';
                     }
                     echo " 0 Ratings";
                     echo '</div>';

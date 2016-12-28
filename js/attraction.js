@@ -57,7 +57,7 @@ function getVisitIntervals(place) {
  * Reset all search parameters.
  */
 function resetSearch() {
-    location.href = 'attraction.php';
+    location.href = '../attraction.php';
 }
 
 $(document).ready(function () {

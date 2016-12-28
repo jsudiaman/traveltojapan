@@ -34,7 +34,7 @@
     <script type="text/javascript" src="js/util.js"></script>
 
     <!-- Page Specific -->
-    <script type="text/javascript" src="attractiondetails.js"></script>
+    <script type="text/javascript" src="js/attractiondetails.js"></script>
 </head>
 
 <body>

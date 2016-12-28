@@ -44,7 +44,7 @@
     <nav><?php include 'navbar.php' ?></nav>
 
     <main>
-        <img src="japan.jpg" alt="japan" width="650" height="240">
+        <img src="images/japan.jpg" alt="japan" width="650" height="240">
         <p>In Japanese language the country Japan known as "Nihon" or "Nippon" is an island nation in East Asia. Japan
             is also known as the "Land of the Rising Sun", is a country where the past meets the future. Japanese
             culture stretches back millennia, yet has also adopted the latest modern fashions and trends. Although Japan
@@ -97,8 +97,8 @@
 
         <table border="1" cellspacing="0" cellpadding="5" width="95%" align="center">
             <tr>
-                <td><a href="tample1.jpg" data-lightbox="cTable">
-                        <img src="tample2.jpg" width="96" height="72" class="floatleft"/></a></td>
+                <td><a href="images/tample1.jpg" data-lightbox="cTable">
+                        <img src="images/tample2.jpg" width="96" height="72" class="floatleft"/></a></td>
                 <td><h3>Beautiful Temples and Gardens</h3>
                     <p>The temples in Japan have beautifully ornamented gates. Almost all the Buddhist temples in Japan
                         exhibit an uncanny similarity to the ones in China, indicating the country's source of Buddhism
@@ -107,8 +107,8 @@
             </tr>
 
             <tr>
-                <td><a href="kimono1.jpg" data-lightbox="cTable">
-                        <img src="kimono2.jpg" width="96" height="72" class="floatleft"/></a></td>
+                <td><a href="images/kimono1.jpg" data-lightbox="cTable">
+                        <img src="images/kimono2.jpg" width="96" height="72" class="floatleft"/></a></td>
                 <td><h3>Impressive Traditional Cloths</h3>
                     <p>Traditional clothing of the Edo period, (1600-1868), included the kimono and obi as we know them
                         today. The obi did not, however, become a prominent part of a woman's ensemble until the mid Edo
@@ -117,8 +117,8 @@
             </tr>
 
             <tr>
-                <td><a href="sumo1.jpg" data-lightbox="cTable">
-                        <img src="sumo2.jpg" width="96" height="72" class="floatleft"/></a></td>
+                <td><a href="images/sumo1.jpg" data-lightbox="cTable">
+                        <img src="images/sumo2.jpg" width="96" height="72" class="floatleft"/></a></td>
                 <td><h3>Traditional Sports Sumo</h3>
                     <p>Sumo Japanese national sports. Sumo wrestlers is styled like that of a warrior, wear only a
                         special silk belt and fight using only there bare hands. Most weigh between 100 and 200
@@ -132,7 +132,7 @@
 
         <table border="0" cellspacing="0" cellpadding="5">
             <tr>
-                <td><img src="tokyo2.jpg" alt="japan" width="325" height="200"></td>
+                <td><img src="images/tokyo2.jpg" alt="japan" width="325" height="200"></td>
                 <td><p>Tokyo, the capital of Japan, is one of the largest cities of the world with a population of
                         12.64 million. Its long history of prosperity started with the establishment of the shogunate by
                         Tokugawa Ieyasu in 1603. At that time, Tokyo was called Edo, which by the 18th century had grown
@@ -165,7 +165,7 @@
         <table border="0" cellspacing="0">
             <tr>
                 <td><h4>Japanese Language</h4>
-                    <img class="rightimages" src="kanji.jpg" alt="japan" width="100" height="70">
+                    <img class="rightimages" src="images/kanji.jpg" alt="japan" width="100" height="70">
                     <p class="newsitem">The japanese language "nihongo" is a combination of three different scripts:
                         kanji, hiragana, and Katakana.</p></td>
             </tr>
@@ -175,7 +175,7 @@
         <table border="0" cellspacing="0">
             <tr>
                 <td><h4>Japanese Currency</h4>
-                    <img class="rightimages" src="yen.jpg" alt="japan" width="100" height="70">
+                    <img class="rightimages" src="images/yen.jpg" alt="japan" width="100" height="70">
                     <p class="newsitem">The japanese "yen" is the official currency of Japan. It is the thired most
                         traded currency in the forgien
                         exchange market after the United States dollar and euro.</p></td>
@@ -186,28 +186,28 @@
         <table border="1" cellspacing="0">
             <tr>
                 <td><strong>ATTRACTIONS</strong><br/>
-                    <a href="osakatemple1.jpg" data-lightbox="attractions">
-                        <img src="osakatemple2.jpg" width="50" height="50" class="floatleft"/></a>
+                    <a href="images/osakatemple1.jpg" data-lightbox="attractions">
+                        <img src="images/osakatemple2.jpg" width="50" height="50" class="floatleft"/></a>
                     <p>Temples in Osaka&nbsp;</p></td>
             </tr>
 
             <tr>
-                <td><a href="chainatown1.jpg" data-lightbox="attractions">
-                        <img src="chainatown2.jpg" width="50" height="50" class="floatleft"/></a>
+                <td><a href="images/chainatown1.jpg" data-lightbox="attractions">
+                        <img src="images/chainatown2.jpg" width="50" height="50" class="floatleft"/></a>
                     <p>Chinatown in Kobe</p></td>
             </tr>
 
             <tr>
                 <td>
-                    <a href="restaurant1.jpg" data-lightbox="attractions">
-                        <img src="restaurant2.jpg" width="50" height="50" class="floatleft"/></a>
+                    <a href="images/restaurant1.jpg" data-lightbox="attractions">
+                        <img src="images/restaurant2.jpg" width="50" height="50" class="floatleft"/></a>
                     <p>Famous Restaurant Tokyo</p></td>
             </tr>
 
             <tr>
                 <td>
-                    <a href="Shinkansen1.jpg" data-lightbox="attractions">
-                        <img src="Shinkansen2.jpg" width="50" height="50" class="floatleft"/></a>
+                    <a href="images/Shinkansen1.jpg" data-lightbox="attractions">
+                        <img src="images/Shinkansen2.jpg" width="50" height="50" class="floatleft"/></a>
                     <p>500 Series Bullet Train (Shinkansen) in Kyoto Station</p></td>
             </tr>
         </table>
