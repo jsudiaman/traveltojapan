@@ -85,11 +85,11 @@
                 $next = http_build_query(array_merge($_GET, array("page" => $page + 1)));
 
                 if ($page > 0) {
-                    echo "<span style=\"float:left;\"><a href='HotelResult.php?{$prev}'>Previous Page</a></span>";
+                    echo "<span style=\"float:left;\"><a href='hotel.php?{$prev}'>Previous Page</a></span>";
                 }
 
                 if (($page + 1) * $lim < $numRows) {
-                    echo "<span style=\"float:right;\"><a href='HotelResult.php?{$next}'>Next Page</a></span>";
+                    echo "<span style=\"float:right;\"><a href='hotel.php?{$next}'>Next Page</a></span>";
                 }
             } catch (PDOException $e) {
                 echo 'Could not connect to the database.';
