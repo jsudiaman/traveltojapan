@@ -39,7 +39,7 @@
         <h3 id="tea">Tea Ceremony</h3>
         <table border="0" cellpadding="5">
             <tr>
-                <td><img src="imageculture/tea.jpg" alt="tea" width="250" height="170"></td>
+                <td><img src="images/tea.jpg" alt="tea" width="250" height="170"></td>
                 <td><p>The tea ceremony is a ceremonial way of preparing and drinking tea.
                         The custom has been strongly influenced by Zen Buddhism. Nowadays, the tea ceremony is a
                         relatively popular hobby. Tea ceremonies are held in traditional Japanese rooms in cultural
@@ -55,7 +55,7 @@
         <h3 id="festival">Japanese Festivals (Matsuri)</h3>
         <table border="0" cellpadding="5">
             <tr>
-                <td><img src="imageculture/mikoshi.jpg" alt="festival" width="250" height="200"></td>
+                <td><img src="images/mikoshi.jpg" alt="festival" width="250" height="200"></td>
                 <td><p> Most of the festivals are held annually and celebrate the shrine's deity or a seasonal
                         or historical event. Some festival are held over several days.
 
@@ -76,7 +76,7 @@
         <h3 id="bath">Public Baths</h3>
         <table border="0" cellpadding="5">
             <tr>
-                <td><img src="imageculture/bath1.jpg" alt="future bath" width="250" height="180"></td>
+                <td><img src="images/bath1.jpg" alt="future bath" width="250" height="180"></td>
                 <td><p>In the past, many homes in Japan were not equipped with a bathtub. To fill this void,
                         the neighborhood sento or public bath was a place where the locals could
                         go to wash themselves, soak in a tub and socialize with neighbors.
@@ -93,7 +93,7 @@
         <h3 id="doll">Doll Festival and Souvenir</h3>
         <table border="0" cellpadding="5">
             <tr>
-                <td><img src="imageattraction/doll1.jpg" alt="Doll Festival and Souvenir" width="250" height="180"></td>
+                <td><img src="images/doll1.jpg" alt="Doll Festival and Souvenir" width="250" height="180"></td>
                 <td><p>Hina Matsuri is one of the five annual observances, Go-Sekku, that mark the changing seasons. A
                         major feature of this celebration is the display of Hina Ningyo, special dolls representing the
                         imperial family and their courtiers arrayed on a five or seven-tiered stand that is covered with
@@ -109,22 +109,22 @@
         <table border="0" cellpadding="5">
             <tr>
                 <td>
-                    <figure><img src="imageculture/sushi.jpg" alt="sushi" width="120" height="100">
+                    <figure><img src="images/sushi.jpg" alt="sushi" width="120" height="100">
                         <figcaption>Sushi</figcaption>
                     </figure>
                 </td>
                 <td>
-                    <figure><img src="imageculture/Tempura.jpg" alt="tempura" width="120" height="100">
+                    <figure><img src="images/Tempura.jpg" alt="tempura" width="120" height="100">
                         <figcaption>Tempura</figcaption>
                     </figure>
                 </td>
                 <td>
-                    <figure><img src="imageculture/Osechi.jpg" alt="osechi" width="120" height="100">
+                    <figure><img src="images/Osechi.jpg" alt="osechi" width="120" height="100">
                         <figcaption>Osechi</figcaption>
                     </figure>
                 </td>
                 <td>
-                    <figure><img src="imageculture/Udon.jpg" alt="japan" width="120" height="100">
+                    <figure><img src="images/Udon.jpg" alt="japan" width="120" height="100">
                         <figcaption>Udon</figcaption>
                     </figure>
                 </td>
@@ -147,7 +147,7 @@
         <table border="0" cellspacing="0">
             <tr>
                 <td><h4>Cherry Blossom</h4>
-                    <p class="newsitem"><img class="rightimages" src="imageculture/cherry1.jpg" alt="cherry" width="100"
+                    <p class="newsitem"><img class="rightimages" src="images/cherry1.jpg" alt="cherry" width="100"
                                              height="70"></p>
                     <p class="newsitem">The cherry blossom (sakura) is Japan's unofficial national flower.
                         It has been celebrated for many centuries and holds a very prominent position in
@@ -162,7 +162,7 @@
         <table border="0" cellspacing="0">
             <tr>
                 <td><h4>Japanese Plum</h4>
-                    <p class="newsitem"><img class="rightimages" src="imageculture/plum.jpg" alt="plum" width="100"
+                    <p class="newsitem"><img class="rightimages" src="images/plum.jpg" alt="plum" width="100"
                                              height="70"></p>
 
                     <p class="newsitem">The plum is associated with the start of spring, because plum blossoms are some
@@ -179,7 +179,7 @@
 
                 <td><h4>Autumn Leaves</h4>
 
-                    <p class="newsitem"><img class="rightimages" src="imageculture/autumn.jpg" alt="autumn" width="100"
+                    <p class="newsitem"><img class="rightimages" src="images/autumn.jpg" alt="autumn" width="100"
                                              height="70"></p>
 
                     <p class="newsitem">Colorful leaves (koyo) are to the Japanese autumn what cherry blossoms are to

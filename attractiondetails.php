@@ -92,9 +92,9 @@
             <form id="writeReviews">
                 <fieldset>
                     <legend><strong>Write a Review</strong></legend>
-                    <label>Name*<br><input name="name" type="text" required></label><br><br>
-                    <label>Email*<br><input name="email" type="email" required></label><br><br>
-                    <label>Rating*<br><select name="rating" required>
+                    <label>Name*<br><input name="name" type="text" autocomplete="off" required></label><br><br>
+                    <label>Email*<br><input name="email" type="email" autocomplete="off" required></label><br><br>
+                    <label>Rating*<br><select name="rating" autocomplete="off" required>
                             <option value=0 disabled selected>Choose Rating</option>
                             <option value=5>5 - Fantastic</option>
                             <option value=4>4 - Great</option>
@@ -102,7 +102,7 @@
                             <option value=2>2 - Bad</option>
                             <option value=1>1 - Horrible</option>
                         </select></label><br><br>
-                    <label>Comments<br><textarea name="comment" cols="60" rows="10"></textarea></label><br><br>
+                    <label>Comments<br><textarea name="comment" cols="60" rows="10" autocomplete="off"></textarea></label><br><br>
                     Fields marked with a * are required.<br>
                     <input type="submit" value="Submit Review">
                 </fieldset>

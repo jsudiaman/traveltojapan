@@ -17,7 +17,7 @@
         <h3>History of Religion</h3>
         <table border="0" cellpadding="5">
             <tr>
-                <td><img src="imagehistory/religion.jpg" alt="japan" width="250" height="150"></td>
+                <td><img src="images/religion.jpg" alt="japan" width="250" height="150"></td>
                 <td>
                     <p>Shinto and Buddhism are Japan's two major religions. They have been co-existing for
                         several centuries and have even complemented each other to a certain degree. Most Japanese
@@ -42,7 +42,7 @@
         <h3>History of Castle</h3>
         <table border="0" cellpadding="5">
             <tr>
-                <td><img src="imagehistory/castle.jpg" alt="japan" width="250" height="150"></td>
+                <td><img src="images/castle.jpg" alt="japan" width="250" height="150"></td>
                 <td>
                     <p>The need for castles arouse after the central government's authority had weakened in the 15th
                         century and
@@ -68,12 +68,12 @@
             </tr>
             <tr>
                 <td>
-                    <figure><img src="imagehistory/hiroshima.jpg" alt="japan" width="300" height="150">
+                    <figure><img src="images/hiroshima.jpg" alt="japan" width="300" height="150">
                         <figcaption>Hiroshima</figcaption>
                     </figure>
                 </td>
                 <td>
-                    <figure><img src="imagehistory/nagashaki.jpg" alt="japan" width="300" height="150">
+                    <figure><img src="images/nagashaki.jpg" alt="japan" width="300" height="150">
                         <figcaption>Nagasaki</figcaption>
                     </figure>
                 </td>
@@ -84,7 +84,7 @@
         <table border="0" cellspacing="0">
             <tr>
                 <td><h4>Samurai</h4>
-                    <p class="newsitem"><img src="imagehistory/samurai.jpg" alt="japan" width="100" height="120"></p>
+                    <p class="newsitem"><img src="images/samurai.jpg" alt="japan" width="100" height="120"></p>
                     <p class="newsitem">The samurai (or bushi) were the warriors of premodern Japan. They later made up
                         the ruling military class that eventually became the highest ranking social caste of the Edo
                         Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and
@@ -97,7 +97,7 @@
         <table border="0" cellspacing="0">
             <tr>
                 <td><h4>Yasukuni Shrine</h4>
-                    <p class="newsitem"><img src="imagehistory/shrine.jpg" alt="japan" width="100" height="120"></p>
+                    <p class="newsitem"><img src="images/shrine.jpg" alt="japan" width="100" height="120"></p>
                     <p class="newsitem">Yasukuni Shrine is a Shinto shrine in central Tokyo that commemorates Japan's
                         war dead. The shrine was founded in 1869 with the purpose of enshrining
                         those who have died in war for their country and sacrificed their lives to help build the

@@ -28,10 +28,10 @@ try {
             echo "<h2><a href='mailto:{$row['email']}'>{$row['name']}</a></h2>";
             $rating = $row['rating'];
             for ($i = 0; $i < $rating; $i++) {
-                echo '<img src="images/star-orange.png" alt="Orange Star">';
+                echo '<img src="../images/star-orange.png" alt="Orange Star">';
             }
             for ($i = 0; $i < 5 - $rating; $i++) {
-                echo '<img src="images/star-white.png" alt="White Star">';
+                echo '<img src="../images/star-white.png" alt="White Star">';
             }
             echo "<p>{$row['comment']}</p><hr>";
         }

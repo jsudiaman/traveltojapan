@@ -78,7 +78,7 @@
                 </form>
             </div>
             <div id="tabs-2">
-                <form class="searchSort" action="HotelResult.php" method="get">
+                <form class="searchSort" action="hotel.php" method="get">
                     <table>
                         <tr>
                             <td><input id="city" type="text" class="form-control" name="city" placeholder="City"></td>

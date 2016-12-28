@@ -34,7 +34,7 @@
     <main>
         <br/>
         <table border="5" align="center" cellspacing="0" width="70%" cellpadding="5">
-            <caption><img src="imageinformation/flag.jpg" alt="flag" width="50" height="50">
+            <caption><img src="images/flag.jpg" alt="flag" width="50" height="50">
                 <h2>INFORMATION OF TRAVEL TO JAPAN</h2></caption>
             <tr>
                 <td>

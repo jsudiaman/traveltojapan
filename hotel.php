@@ -11,7 +11,7 @@
 <div id="flexbox">
     <nav><?php include 'navbar.php' ?></nav>
     <main>
-        <form class="searchSort" action="HotelResult.php" method="get">
+        <form class="searchSort" action="hotel.php" method="get">
             <table>
                 <tr>
                     <td>
@@ -72,9 +72,9 @@
                             <p>Phone Number: +<?php echo $row['Phone']; ?></p>
                         </td>
                         <td>
-                            <form action="HotelDetail.php" method="get"><input id="hotelId" type="hidden" name="hotelId"
-                                                                               value=<?php echo $row['ID'] ?>> <input
-                                        type="submit" value="Details"></form>
+                            <form action="hoteldetails.php" method="get">
+                                <input id="hotelId" type="hidden" name="hotelId" value=<?php echo $row['ID'] ?>> <input type="submit" value="Details">
+                            </form>
                         </td>
                     </tr>
                     <?php
