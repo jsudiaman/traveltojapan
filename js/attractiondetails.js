@@ -85,7 +85,7 @@ $(document).ready(function () {
     // Fetch reviews through AJAX
     var showAllHandler = function (event) {
         $.ajax({
-            url: '/api/fetchreviews.php',
+            url: '/service/fetchreviews.php',
             type: 'GET',
             data: {id: params['id']},
             success: function (data) {
@@ -97,7 +97,7 @@ $(document).ready(function () {
         return false;
     };
     $.ajax({
-        url: '/api/fetchreviews.php',
+        url: '/service/fetchreviews.php',
         type: 'GET',
         data: {id: params['id'], limit: 5},
         success: function (data, textStatus, xhr) {
@@ -116,7 +116,7 @@ $(document).ready(function () {
         data.push({name: "attractionId", value: params['id']});
 
         $.ajax({
-            url: '/api/submitreview.php',
+            url: '/service/submitreview.php',
             type: 'GET',
             data: data,
             success: function () {
