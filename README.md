@@ -1,4 +1,4 @@
 Term project for [COMP3670 (WWW App Development)](https://www.wit.edu/bachelor-science-computer-science).
 
-- [Site Overview](https://github.com/sudiamanj/traveltojapan/blob/master/Overview.pdf)
+- [Report](https://github.com/sudiamanj/traveltojapan/blob/master/misc/Report.pdf)
 - [Live Demo](https://traveltojapan.herokuapp.com/)
