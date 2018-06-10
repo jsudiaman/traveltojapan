@@ -1,0 +1,8 @@
+image: ruby:2.5.1
+
+build:
+  script:
+  - gem install dpl
+  - dpl --provider=heroku --app=traveltojapan --api-key=$HEROKU_API_KEY
+  only:
+  - master
